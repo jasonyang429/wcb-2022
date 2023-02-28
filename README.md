@@ -1,2 +1,2 @@
-# wcb-2022
-Repository for World Congress of Biomechanics 2022
+# The effect of different matrix interfacial adhesive strength in promoting the metastatic pattern of tumor spheroids using an encoder-decoder model 
+PDF version available.
